@@ -1,0 +1,41 @@
+Rio Sudrajat
+riosudrajat@gmail.com
+1237050057
+true
+true
+
+Yulia Lestari
+yulialestari@gmail.com
+1237050099
+true
+false
+
+Rifki Taufik
+rifkitaufik@gmail.com
+1237050012
+true
+false
+
+Revan Yastfi
+revanyatsfi@gmail.com
+1237050014
+false
+1920 Majalaya
+Bandung
+Indonesia
+19103
+
+Sidiq Jabar
+sidiqjabar@gmail.com
+1237050015
+false
+2122 Kerawang
+Orlando
+FL
+32801
+
+Subhan Natsir
+subhannatsir@gmail.com
+1237050013
+true
+false
