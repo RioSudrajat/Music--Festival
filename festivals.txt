@@ -1,13 +1,12 @@
-INDIE FEST 2024
-30-12-2024
-100000.0
-bandung
-IND
-80
+INDIE FEST 2025
+03-03-2025
+10000.0
+Bandung
+IDN
+50
+1
+Pop Punk
 2
-Indie
-Pop
-2
-Fiersa Besari
-Dzawin Nur
+Rio Bersari
+Yulia Bernadya
 
